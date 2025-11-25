@@ -1,0 +1,11 @@
+{
+  "version": "0.8.6",
+  "min_version": "0.8.5",
+  "url": "https://ismaildakrory.github.io/SmartThermo/firmware_v0.8.7.bin",
+  "size": 1332576,
+  "md5": "6719542b6944f9652f11699d2b9b67f0",
+  "changelog": "Bug fixes and improvements",
+  "release_date": "2025-11-26",
+  "mandatory": false,
+  "beta": false
+}
