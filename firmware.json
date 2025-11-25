@@ -1,7 +1,7 @@
 {
   "version": "0.8.7",
   "min_version": "0.8.5",
-  "url": "http://ismaildakrory.github.io/SmartThermo/firmware_v0.8.7.bin",
+  "url": "https://ismaildakrory.github.io/SmartThermo/firmware_v0.8.7.bin",
   "size": 1332576,
   "md5": "6719542b6944f9652f11699d2b9b67f0",
   "changelog": "Bug fixes and improvements",
@@ -10,4 +10,5 @@
   "beta": false
 
 }
+
 
