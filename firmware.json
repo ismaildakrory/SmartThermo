@@ -1,0 +1,11 @@
+{
+  "version": "0.8.8",
+  "min_version": "0.8.5",
+  "url": "http://api.ismaildakrory.com/firmware_v0.8.8.bin",
+  "size": 1332864,
+  "md5": "9feb5979b1b3eff79721d6856fe97e27",
+  "changelog": "Bug fixes and improvements",
+  "release_date": "2025-11-26",
+  "mandatory": false,
+  "beta": false
+}
