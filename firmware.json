@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "min_version": 01.8.0",
+  "min_version": 0.8.0",
   "url": "http://api.ismaildakrory.com/firmware_v2.0.0.bin",
   "size": 1415984,
   "md5": "8bf44ac96f31d4d50870b51a21ae3493",
@@ -10,5 +10,6 @@
   "beta": false
 
 }
+
 
 
