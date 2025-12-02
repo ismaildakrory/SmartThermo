@@ -1,9 +1,9 @@
 {
   "version": "1.0.1",
-  "min_version": "1.0.0",
+  "min_version": "1.0.1",
   "url": "http://api.ismaildakrory.com/firmware_v1.0.1.bin",
-  "size": 1399760,
-  "md5": "8644a9abca3d3ca3f3e80d4319186e9d",
+  "size": 1399792,
+  "md5": "a55a5c667b1061980fbac32adf23c2c4",
   "changelog": "Bug fixes and improvements",
   "release_date": "2025-12-02",
   "mandatory": false,
