@@ -3,9 +3,10 @@
   "min_version": "1.0.1",
   "url": "http://api.ismaildakrory.com/firmware_v1.0.2.bin",
   "size": 1418144,
-  "md5": "14731dafa0e3d7dg5f47f0a6cd250b54",
+  "md5": "147315f47f0a6cd250b54",
   "release_notes": "Testing update",
   "release_date": "2025-12-04",
   "mandatory": false,
   "beta": false
+
 }
