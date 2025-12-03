@@ -1,12 +1,11 @@
 {
-  "version": "1.0.2",
+  "version": "1.1.0",
   "min_version": "1.0.1",
-  "url": "http://api.ismaildakrory.com/firmware_v1.0.2.bin",
-  "size": 1418144,
-  "md5": "147315f47f0a6cd250b54",
-  "release_notes": "Testing update",
+  "url": "http://api.ismaildakrory.com/firmware_v1.1.0.bin",
+  "size": 1417456,
+  "md5": "43effa12006c59bab2851bff47c7eb8b",
+  "release_notes": "Bug fixes and improvements",
   "release_date": "2025-12-04",
   "mandatory": false,
   "beta": false
-
 }
